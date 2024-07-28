@@ -33,4 +33,3 @@ Atualmente, estou focado em expandir meus horizontes profissionais e mergulhar n
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=breniru&layout=compact)
 
-![Snake animation](https://github.com/breniru/breniru/blob/output/github-contribution-grid-snake.svg)
